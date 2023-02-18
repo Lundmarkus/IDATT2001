@@ -6,6 +6,7 @@ public class Link {
     private String reference;
     private List<Action> actions;
 
+    //action må lages til, får noen feil videre på linje 25-26 +++ pga dette. Den er i oppgave 7.
 
     Link(String text, String reference) {
         this.text = text;
